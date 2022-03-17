@@ -1,2 +1,2 @@
 # -allthingsrepo
-this is to practice myself to git
+getting ready for git 
